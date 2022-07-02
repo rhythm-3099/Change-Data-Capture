@@ -14,4 +14,4 @@ The below explained mechanism remains the same for the case of full load (initia
 
 The below diagram shows the project architecture.
 
-![Project Architecture](https://github.com/rhythm-3099/Change-Data-Capture/blob/main/cdc_architecture.jpg?raw=true)
+![Project Architecture](./cdc_architecture.JPG)
